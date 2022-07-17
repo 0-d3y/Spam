@@ -1,9 +1,11 @@
-# Spam instagram                                                                                          <p align="center"><img src="https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screensh                 >
+# Spam instagram   
+                                                                         
 <h4 align="center">
 Spam : Eternalblue(ms17-010)/Bluekeep(CVE-2019-0708) Scanner and exploiter ( Metasploit automation )
 </h4>
 
 # How to install :
+
 ```
 $_ pkg install bash
 $_ pkg install python 
@@ -13,11 +15,12 @@ $_ chmod +x spam
 $_ chmod +x spam.sh
 $_ bash spam.sh
 ```
+
 # Screenshots :
-![Image 2](https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screenshot%20from%202019-                 >
-![Image 3](https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screenshot%20from%202019-                 >
-![Image 4](https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screenshot%20from%202019-                 >
-![Image 5](https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screenshot%20from%202019-                 >
+![Image2](https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screenshot%20from%202019-                 >
+![Image3](https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screenshot%20from%202019-                 >
+![Image4](https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screenshot%20from%202019-                 >
+![Image5](https://raw.githubusercontent.com/Cyb0r9/ispy/master/screenshot/Screenshot%20from%202019-                 >
 
 # Tested On :
 * Parrot OS
